@@ -1,5 +1,9 @@
 # Arthur Gomes de Souza
-A passionate computer science student from Brazil.
+Sou desenvolvedor SAP ABAP na Seidor, com experiência em desenvolvimento, manutenção e customização de soluções empresariais no ambiente SAP.
+
+Iniciei minha trajetória profissional em 2024 como estagiário e, após aproximadamente seis meses, fui efetivado como desenvolvedor ABAP.
+
+Estou concluindo minha graduação em Ciência da Computação no Centro Universitário Dom Helder, onde desenvolvi projetos envolvendo engenharia de software, algoritmos de otimização, desenvolvimento web e inteligência artificial.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arthur-gomes-souza/](https://www.linkedin.com/in/arthur-gomes-souza/)) 
