@@ -23,5 +23,11 @@ Estou concluindo minha graduação em Ciência da Computação no Centro Univers
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurgsDev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurgsDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## My main projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurgsDev&repo=Gerenciador-de-tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/arthurgsDev/Gerenciador-de-tarefas)
+## Principais projetos
+Sistema de Otimização de Grades Horárias Escolares
+
+Sistema voltado à geração automática de horários escolares utilizando Algoritmo Genético, considerando restrições de disponibilidade, professores, turmas e salas.
+
+Extensão para Verificação de Notícias
+
+Extensão de navegador desenvolvida para auxiliar na análise de credibilidade de notícias, utilizando tecnologias web, APIs de verificação de fatos e inteligência artificial.
